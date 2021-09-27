@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(252, 241, 227);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: left;
+
+}
+h4{
+    color: rgb(0, 0, 0) ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+table
+{
+    width: 35%;
+    background-color: tomato;
+    margin-left: 450px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.aliizq
+{
+    text-align: center;
+}
